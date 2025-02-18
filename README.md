@@ -9,6 +9,7 @@ operations on different points along the curve and introduces matrix operations.
 
 python -m cot_4500_as2
 
+pip install
 scipy (for interpolation and advanced numerical methods)
 
 from cot-4500-as2 import compute_cubic_spline
